@@ -30,6 +30,7 @@ for study in data['matched_studies'][:10]:
 
 
 #TASK!
-#Write out two different files:
+#a) Write out two different files:
 #   1) The list of all the DOIs we have
 #   2) The list of all the studies without dois. 
+#b) Add your DOI comparison script to GitHUb repo, and update it
