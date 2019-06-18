@@ -2,6 +2,8 @@
 import json
 
 #hi i added to code
+# EJM edit
+
 
 #Used curl to get all studies from the API
 #curl -X POST https://api.opentreeoflife.org/v3/studies/find_studies -H "content-type:application/json" -d '{"verbose":true}' > all_studies.txt
